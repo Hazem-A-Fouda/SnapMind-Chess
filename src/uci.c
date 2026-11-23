@@ -404,7 +404,7 @@ static void handle_command(UciEngine *e, char **toks, int n) {
     const char *cmd = toks[0];
 
     if (strcmp(cmd, "uci") == 0) {
-        printf("id name SnapMind\n");
+        printf("id name SnapMind 1.0.0\n");
         printf("id author Hazem Fouda\n");
         printf("option name Hash type spin default 64 min 1 max 1024\n");
         printf("uciok\n");
