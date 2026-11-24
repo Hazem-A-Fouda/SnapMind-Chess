@@ -187,4 +187,3 @@ the full text.
 
 Parts of the code are derived from Stockfish (GPLv3); see the credits above.
 SnapMind comes with ABSOLUTELY NO WARRANTY.
-Test: syncing after username change.
